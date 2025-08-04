@@ -3,9 +3,7 @@
 🌟​​在性教育资源匮乏的中文互联网中，KnowSex 如同一盏明灯，致力于打破信息壁垒，为公众提供科学、易懂的性知识。
 🌍 无论你是青少年、家长还是教育工作者，这里都能找到可靠的内容。
 
-[![KnowSex.png](https://i.postimg.cc/xTZRDcRK/KnowSex.png)](https://postimg.cc/0bpm75hQ)
-
-
+[![KnowSex.jpg](https://i.postimg.cc/kXLZCnFt/KnowSex.jpg)](https://postimg.cc/ZCFjFzQT)
 
 > 为什么需要KnowSex？​​
 
