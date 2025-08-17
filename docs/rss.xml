@@ -1,81 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>xBitBetter</title><link>https://xBitBetter.github.io</link><description>🅙 life is too bug,please take care of yourself</description><copyright>xBitBetter</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://fav.farm/⛅ </url><title>avatar</title><link>https://xBitBetter.github.io</link></image><lastBuildDate>Sun, 17 Aug 2025 08:39:20 +0000</lastBuildDate><managingEditor>xBitBetter</managingEditor><ttl>60</ttl><webMaster>xBitBetter</webMaster><item><title>马克一下</title><link>https://xBitBetter.github.io/post/ma-ke-yi-xia.html</link><description>## 学习/数学/三角函数双手速记
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>xBitBetter</title><link>https://xBitBetter.github.io</link><description>🅙 life is too bug,please take care of yourself</description><copyright>xBitBetter</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://fav.farm/⛅ </url><title>avatar</title><link>https://xBitBetter.github.io</link></image><lastBuildDate>Sun, 17 Aug 2025 08:42:07 +0000</lastBuildDate><managingEditor>xBitBetter</managingEditor><ttl>60</ttl><webMaster>xBitBetter</webMaster><item><title>马克一下</title><link>https://xBitBetter.github.io/post/ma-ke-yi-xia.html</link><description>## 学习/数学/三角函数双手速记
 [![三角函数双手速记.jpg](https://i.postimg.cc/pLstHNrN/image.jpg)](https://postimg.cc/MnfL7F1t)
 
 ## 学习/驾驶/汽车空调怎么开? 超级实用了
 [![汽车空调怎么开.jpg](https://i.postimg.cc/Y0QHKhG8/image.jpg)](https://postimg.cc/MfZ41ZYj)。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/ma-ke-yi-xia.html</guid><pubDate>Sun, 17 Aug 2025 07:29:58 +0000</pubDate></item><item><title>每日新闻速览</title><link>https://xBitBetter.github.io/post/mei-ri-xin-wen-su-lan.html</link><description>`Gmeek-html&lt;iframe src='https://ravelloh.github.io/EverydayNews?style=clean&amp;footer=none' style='font-size: 14px;' width='600' height='800' frameborder='0'&gt;&lt;/iframe&gt;`。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/mei-ri-xin-wen-su-lan.html</guid><pubDate>Sun, 10 Aug 2025 09:48:42 +0000</pubDate></item><item><title>今日金句</title><link>https://xBitBetter.github.io/post/jin-ri-jin-ju.html</link><description>&gt;[!NOTE]
 &gt; ## 今日金句
-&gt; 一旦你开始认真对待你的目标，你就会失去很多朋友。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/jin-ri-jin-ju.html</guid><pubDate>Fri, 08 Aug 2025 02:03:03 +0000</pubDate></item><item><title>Work/常用API/快手</title><link>https://xBitBetter.github.io/post/Work--chang-yong-API--kuai-shou.html</link><description>### 订单服务使用到的API
-
-获取订单列表 https://open.kwaixiaodian.com/zone/new/docs/api?name=open.order.cursor.list&amp;version=1﻿
-
-获取订单详情 https://open.kwaixiaodian.com/zone/new/docs/api?name=open.order.detail&amp;version=1﻿
-
-订单发货 https://open.kwaixiaodian.com/zone/new/docs/api?categoryId=43&amp;apiName=open.seller.order.goods.deliver&amp;version=1﻿
-
-获取售后单列表 https://open.kwaixiaodian.com/zone/new/docs/api?categoryId=42&amp;apiName=open.seller.order.refund.pcursor.list&amp;version=1﻿
-
-快手开放平台：https://open.kwaixiaodian.com/login﻿
-
-电子面单技术对接文档：https://open.kwaixiaodian.com/zone/new/solution/detail?pageSign=be565dfc5ca82ebb4683bc208f7929051642596657058。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/Work--chang-yong-API--kuai-shou.html</guid><pubDate>Wed, 06 Aug 2025 03:06:41 +0000</pubDate></item><item><title>Work/常用API/京东</title><link>https://xBitBetter.github.io/post/Work--chang-yong-API--jing-dong.html</link><description>### 常用工具地址
-
-京东商家开放平台：https://open-console.jd.com/v2/#/home﻿
-
-自研商家授权工具：https://open.jd.com/v2/#/doc/guide?listId=auth﻿
-
-SSL证书管理：https://certificate-console.jdcloud.com/jsecssl/list﻿
-
-ssl iis 安装教程： https://docs.jdcloud.com/cn/ssl-certificate/ssl-iis 
-
-云鼎虎符控制台：https://hufu-yd-console.jdcloud.com/#/hufu/list﻿
-
-京东云打印模板： https://template-design.jd.com/custom?status=1﻿
-
-云鼎控制台：https://yd-common-console.jdcloud.com/overview﻿
-
-无界电子面单系统接入说明： https://jos.jd.com/commondoc?listId=335﻿
-
-电子面单接单接口入参说明： https://jos.jd.com/commondoc?listId=657
-
-### 订单服务使用到的API
-
-jingdong.pop.order.search（根据条件检索订单信息）https://jos.jd.com/apilist?apiGroupId=55&amp;apiId=15660&amp;apiName=jingdong.pop.order.search﻿
-
-jingdong.pop.order.get（检索单个SOP订单信息）https://jos.jd.com/apilist?apiGroupId=55&amp;apiId=15661&amp;apiName=jingdong.pop.order.get﻿
-
-jingdong.pop.afs.refundapply.querylist（商家通过查询条件查询退款审核单列表）https://jos.jd.com/apilist?apiGroupId=71&amp;apiId=12705&amp;apiName=jingdong.pop.afs.refundapply.querylist﻿
-
-jingdong.pop.order.shipment（sop出库发货接口） https://jos.jd.com/apilistnewdetail?apiGroupId=55&amp;apiId=13880&amp;apiName=null﻿
-
-。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/Work--chang-yong-API--jing-dong.html</guid><pubDate>Tue, 05 Aug 2025 01:04:07 +0000</pubDate></item><item><title>Work/常用API/拼多多</title><link>https://xBitBetter.github.io/post/Work--chang-yong-API--pin-duo-duo.html</link><description>### 订单服务使用到的API
-
-[pdd.order.list.get](https://open.pinduoduo.com/application/document/api?id=pdd.order.list.get) 订单列表查询接口（根据成交时间）﻿
-
-refund_status  售后状态 1：无售后或售后关闭，2：售后处理中，3：退款中，4： 退款成功 5：全部
-
-[pdd.order.information.get](https://open.pinduoduo.com/application/document/api?id=pdd.order.information.get) 订单详情﻿
-
-[pdd.order.merge.ship.order.group](https://open.pinduoduo.com/application/document/api?id=pdd.order.merge.ship.order.group)合并发货订单分组﻿
-
-[pdd.order.review.info](https://open.pinduoduo.com/application/document/api?id=pdd.order.merge.ship.order.group)订单审核信息查询接口﻿
-
-[pdd.logistics.online.send](https://open.pinduoduo.com/application/document/api?id=pdd.logistics.online.send)订单发货通知接口﻿
-
-###  拼多多云打印
-
-https://open.pinduoduo.com/application/document/api?id=pdd.waybill.get﻿
-
-https://open.pinduoduo.com/application/document/api?id=pdd.cloud.print﻿
-
-https://open.pinduoduo.com/application/document/api?id=pdd.waybill.search﻿
-
-https://open.pinduoduo.com/application/document/api?id=pdd.cloudprint.stdtemplates.get﻿
-
-https://open.pinduoduo.com/application/document/api?id=pdd.waybill.query.by.waybillcode﻿
-
-###  拼多多打印组件下载﻿
-
-拼多多开放平台：https://open.pinduoduo.com/application/home。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/Work--chang-yong-API--pin-duo-duo.html</guid><pubDate>Mon, 04 Aug 2025 07:37:44 +0000</pubDate></item><item><title>Work/电商业务常用API</title><link>https://xBitBetter.github.io/post/Work--dian-shang-ye-wu-chang-yong-API.html</link><description>### 淘宝订单服务使用到的API
+&gt; 一旦你开始认真对待你的目标，你就会失去很多朋友。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/jin-ri-jin-ju.html</guid><pubDate>Fri, 08 Aug 2025 02:03:03 +0000</pubDate></item><item><title>Work/电商业务常用API</title><link>https://xBitBetter.github.io/post/Work--dian-shang-ye-wu-chang-yong-API.html</link><description>### 淘宝订单服务使用到的API
 
 taobao.trades.sold.get( 查询卖家已卖出的交易数据（根据创建时间） )﻿https://open.taobao.com/api.htm?docId=46&amp;docType=2 
 
@@ -202,150 +132,14 @@ jingdong.pop.order.shipment（sop出库发货接口） https://jos.jd.com/apilis
 
 ### 如何实现多店铺共享面单取号
 
-/logistics/newCreateOrder﻿ token字段传开通电子面单店铺的token，user_id字段传订单所在店铺的shopid或者传-1。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/Work--dian-shang-ye-wu-chang-yong-API.html</guid><pubDate>Sun, 03 Aug 2025 01:36:27 +0000</pubDate></item><item><title>Work/常用API/抖音</title><link>https://xBitBetter.github.io/post/Work--chang-yong-API--dou-yin.html</link><description>## 订单服务使用到的API
-
-/order/logisticsAdd 订单发货接口 https://op.jinritemai.com/docs/api-docs/16/718﻿
-
-/order/logisticsAddSinglePack 支持多个订单发同一个物流包裹 https://op.jinritemai.com/docs/api-docs/16/563﻿
-
-/token/refresh https://op.jinritemai.com/docs/api-docs/162/1601﻿
-
-/order/searchList 订单列表查询 https://op.jinritemai.com/docs/api-docs/15/1342﻿
-
-/order/orderDetail 订单详情查询 https://op.jinritemai.com/docs/api-docs/15/1343﻿
-
-订单退款接口，是调用 /order/searchList 使用上面的参数 after_sale_status_desc 获取指定日期的退款订单
-
-## 抖音电子面单API
-
-/logistics/newCreateOrder https://op.jinritemai.com/docs/api-docs/1262/1339﻿
-
-/logistics/waybillApply https://op.jinritemai.com/docs/api-docs/1262/490﻿
-
-/logistics/listShopNetsite https://op.jinritemai.com/docs/api-docs/1262/1843﻿
-
-电子面单常见对接场景 https://op.jinritemai.com/docs/guide-docs/1320/3307﻿
-
-## 如何实现多店铺共享面单取号
-
-/logistics/newCreateOrder﻿ token字段传开通电子面单店铺的token，user_id字段传订单所在店铺的shopid或者传-1。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/Work--chang-yong-API--dou-yin.html</guid><pubDate>Fri, 01 Aug 2025 06:13:39 +0000</pubDate></item><item><title>markdown测试页面</title><link>https://xBitBetter.github.io/post/markdown-ce-shi-ye-mian.html</link><description>这是一个markdown格式的测试页面，也是个人经常会使用的格式记录。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/markdown-ce-shi-ye-mian.html</guid><pubDate>Mon, 09 Jun 2025 08:48:31 +0000</pubDate></item><item><title>基于GitHub的极简博客框架:Gmeek</title><link>https://xBitBetter.github.io/post/ji-yu-GitHub-de-ji-jian-bo-ke-kuang-jia--Gmeek.html</link><description>Gmeek 是一个超轻量级的开源博客框架，完全依托 GitHub Pages、GitHub Issues 和 GitHub Actions 构建，无需本地部署，从搭建到发布仅需 3步，让每个人都能轻松拥有一个技术博客！  
+/logistics/newCreateOrder﻿ token字段传开通电子面单店铺的token，user_id字段传订单所在店铺的shopid或者传-1。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/Work--dian-shang-ye-wu-chang-yong-API.html</guid><pubDate>Sun, 03 Aug 2025 01:36:27 +0000</pubDate></item><item><title>基于GitHub的极简博客框架:Gmeek</title><link>https://xBitBetter.github.io/post/ji-yu-GitHub-de-ji-jian-bo-ke-kuang-jia--Gmeek.html</link><description>Gmeek 是一个超轻量级的开源博客框架，完全依托 GitHub Pages、GitHub Issues 和 GitHub Actions 构建，无需本地部署，从搭建到发布仅需 3步，让每个人都能轻松拥有一个技术博客！  
 
 
 **🌟 核心特点**  
 1. 极速搭建 ⚡  
-   • 通过 GitHub模板仓库 一键创建，支持自定义域名（如`xxx.github.io`）。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/ji-yu-GitHub-de-ji-jian-bo-ke-kuang-jia--Gmeek.html</guid><pubDate>Mon, 09 Jun 2025 05:34:38 +0000</pubDate></item><item><title>科目三终于通过啦</title><link>https://xBitBetter.github.io/post/ke-mu-san-zhong-yu-tong-guo-la.html</link><description>&gt; [!NOTE]
-&gt; 本文写于2023年，经过三次科目三考试，终于通过考试了
+   • 通过 GitHub模板仓库 一键创建，支持自定义域名（如`xxx.github.io`）。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/ji-yu-GitHub-de-ji-jian-bo-ke-kuang-jia--Gmeek.html</guid><pubDate>Mon, 09 Jun 2025 05:34:38 +0000</pubDate></item><item><title>MySQL8绿色版安装简明教程</title><link>https://xBitBetter.github.io/post/MySQL8-lv-se-ban-an-zhuang-jian-ming-jiao-cheng.html</link><description># 背景
 
-&gt; [!TIP]
-&gt;2023年5月11日终于通过了科目三考试，总结下这次可以一把通过考试的原因。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/ke-mu-san-zhong-yu-tong-guo-la.html</guid><pubDate>Sat, 07 Jun 2025 08:03:25 +0000</pubDate></item><item><title>MySQL8绿色版安装简明教程</title><link>https://xBitBetter.github.io/post/MySQL8-lv-se-ban-an-zhuang-jian-ming-jiao-cheng.html</link><description># 背景
-
-- 开发安装MySQL8版本，但是直接使用安装包安装，无法设置安装路径，mysql会直接安装到系统盘。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/MySQL8-lv-se-ban-an-zhuang-jian-ming-jiao-cheng.html</guid><pubDate>Fri, 06 Jun 2025 08:45:20 +0000</pubDate></item><item><title>看看如何解决存储过程执行缓慢，但单独执行SQL语句却很快？</title><link>https://xBitBetter.github.io/post/kan-kan-ru-he-jie-jue-cun-chu-guo-cheng-zhi-xing-huan-man-%EF%BC%8C-dan-dan-du-zhi-xing-SQL-yu-ju-que-hen-kuai-%EF%BC%9F.html</link><description>最近，在日常开发中发现了两个问题:
-&gt; 1. 应用程序调用存储过程很慢，但是在查询分析器中把SQL语句拿出来执行存储过程就很快。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/kan-kan-ru-he-jie-jue-cun-chu-guo-cheng-zhi-xing-huan-man-%EF%BC%8C-dan-dan-du-zhi-xing-SQL-yu-ju-que-hen-kuai-%EF%BC%9F.html</guid><pubDate>Fri, 06 Jun 2025 05:14:56 +0000</pubDate></item><item><title>数据库更新表数据，从另一个表中取值</title><link>https://xBitBetter.github.io/post/shu-ju-ku-geng-xin-biao-shu-ju-%EF%BC%8C-cong-ling-yi-ge-biao-zhong-qu-zhi.html</link><description>## SQL SERVER
-```
-UPDATE  A set A.C=B.C 
-from  tableA  as A（别名）,tableB as  B （别名）
-where A.列= B.列
-```
-
-## MySQL
-```
-UPDATE tableA  as A
-inner join tableB as  B  
-on  A.列= B.列
-set  A.C=B.C 
-```
-当A表与B表某个字段值相等时，更新A表某列值等于B表某列值
-
-## DB2
-```
-UPDATE A_TEST as atest
-set atest.ORG_CODE=(select ctest.code from C_TEST ctest where atest.id = ctest.id)
-where atest.id in  (select ctest.id FROM TEST ctest);
-```
-
-&lt;!-- ##{'timestamp':1748910615}## --&gt;
-。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/shu-ju-ku-geng-xin-biao-shu-ju-%EF%BC%8C-cong-ling-yi-ge-biao-zhong-qu-zhi.html</guid><pubDate>Thu, 05 Jun 2025 01:25:31 +0000</pubDate></item><item><title>Scoop windows下的包管理器</title><link>https://xBitBetter.github.io/post/Scoop%20windows-xia-de-bao-guan-li-qi.html</link><description># Scoop 安装
-## 环境需求
-- PowerShell 5 +
-- .NET Framework 4.5 +
-![scoop-01](https://user-images.githubusercontent.com/124132611/216545926-1d034692-d7ae-491a-9237-04065711e7e6.jpg)
-# 安装
-## 指定安装位置（配置环境变量）
-以管理员身份打开PowerShell
-```yml
-$env:SCOOP='D:\Applications\Scoop'
- $env:SCOOP, 'User')
-$env:SCOOP_GLOBAL='F:\GlobalScoopApps'
- $env:SCOOP_GLOBAL, 'Machine')
-```
-# 安装Scoop
-首先确保你能访问 raw.githubusercontent.com
-```yml
-Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')
-# 或者
-iwr -useb get.scoop.sh | iex
-irm https://cdn.jsdelivr.net/gh/duzyn/scoop-cn/install.ps1 | iex
-irm https://ghproxy.com/raw.githubusercontent.com/duzyn/scoop-cn/master/install.ps1 | iex
-```
-
-# Scoop 使用
-## Scoop官方维护的仓库
-- main - 默认仓库
-- extras - 默认仓库的补充超级强大
-- games - 看名字就知道啦
-- nerd-fonts - Nerd Fonts
-- nirsoft - A subset of the 250 Nirsoft apps
-- java - Installers for Oracle Java, OpenJDK, Zulu, ojdkbuild, AdoptOpenJDK, Amazon Corretto, BellSoft Liberica &amp; SapMachine
-- jetbrains - Installers for all JetBrains utilities and IDEs
-- nonportable - Non-portable apps (may require UAC)
-- php - Installers for most versions of PHP
-- versions - Alternative versions of apps found in other buckets
-
-可以直接通过scoop bucket add &lt;repo_name&gt;安装
-
-由于某些原因，每次更新仓库的时间奇慢，所以还是换为国内镜像仓库来增加使用体验
-
-# 镜像仓库
-- [main](https://mirror.nju.edu.cn/git/scoop-main.git 'main')
-
-- [extras](https://mirror.nju.edu.cn/git/scoop-extras.git 'extras')
-
-- [dorado](https://gitee.com/scoop-bucket/dorado.git 'dorado')
-
-# 执行以下命令安装必装软件
-```yml
-scoop install aria2 git 7zip
-```
-反正你肯定要用到！
-或者
-```
-scoop install https://ghproxy.com/raw.githubusercontent.com/duzyn/scoop-cn/master/bucket/7zip.json
-scoop install https://ghproxy.com/raw.githubusercontent.com/duzyn/scoop-cn/master/bucket/git.json
-scoop install https://ghproxy.com/raw.githubusercontent.com/duzyn/scoop-cn/master/bucket/aria2.json
-```
-或者
-```
-scoop install https://cdn.jsdelivr.net/gh/duzyn/scoop-cn/bucket/7zip.json
-scoop install https://cdn.jsdelivr.net/gh/duzyn/scoop-cn/bucket/git.json
-scoop install https://cdn.jsdelivr.net/gh/duzyn/scoop-cn/bucket/aria2.json
-```
-# 对aria2进行设置
-```
-scoop config aria2-split 3 
-scoop config aria2-max-connection-per-server 3 
-scoop config aria2-min-split-size 1M
-```
-# 对scoop_repo进行更改
-```
-scoop config SCOOP_REPO https://gitee.com/scoop-bucket/scoop
-```
-# 执行以下命令订阅软件仓库
-```
-scoop bucket rm main
-scoop bucket add main https://mirror.nju.edu.cn/git/scoop-main.git
-scoop bucket add extras https://mirror.nju.edu.cn/git/scoop-extras.git
-```
-以上两个是官方bucket的国内镜像，所有软件建议优先从这里下载。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/Scoop%20windows-xia-de-bao-guan-li-qi.html</guid><pubDate>Thu, 05 Jun 2025 01:19:44 +0000</pubDate></item><item><title>调用SerialPort类搞定包裹称重</title><link>https://xBitBetter.github.io/post/diao-yong-SerialPort-lei-gao-ding-bao-guo-cheng-zhong.html</link><description>当前，几乎所有的电商综合管理系统已将包裹称重环节纳入核心流程，尤其在食品电商领域，其系统内集成的包裹称重功能模块扮演着关键角色，有效防止因包裹重量信息误差而导致的发货差错，并能迅速识别异常包裹，有力地减少了包裹误发的现象。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/diao-yong-SerialPort-lei-gao-ding-bao-guo-cheng-zhong.html</guid><pubDate>Thu, 05 Jun 2025 01:05:55 +0000</pubDate></item><item><title>EF查询缓存优化</title><link>https://xBitBetter.github.io/post/EF-cha-xun-huan-cun-you-hua.html</link><description>同一个DbContext实例，EF会对查询过的数据进行缓存。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/EF-cha-xun-huan-cun-you-hua.html</guid><pubDate>Thu, 29 May 2025 00:31:09 +0000</pubDate></item><item><title>WeeklyReport2025</title><link>https://xBitBetter.github.io/post/WeeklyReport2025.html</link><description>&gt; English, code, write, speech, read，这个时代复利最高的五件事。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/WeeklyReport2025.html</guid><pubDate>Wed, 01 Jan 2025 11:50:50 +0000</pubDate></item><item><title>WeeklyReport2024</title><link>https://xBitBetter.github.io/post/WeeklyReport2024.html</link><description>&gt; English, code, write, speech, read，这个时代复利最高的五件事。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/WeeklyReport2024.html</guid><pubDate>Mon, 01 Jan 2024 14:15:12 +0000</pubDate></item><item><title>WeeklyReport2023</title><link>https://xBitBetter.github.io/post/WeeklyReport2023.html</link><description>&gt; English, code, write, speech, read，这个时代复利最高的五件事。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/WeeklyReport2023.html</guid><pubDate>Sun, 01 Jan 2023 13:10:20 +0000</pubDate></item><item><title>WeeklyReport2022</title><link>https://xBitBetter.github.io/post/WeeklyReport2022.html</link><description>&gt; 人生不是一种享乐，而是一桩十分沉重的工作。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/WeeklyReport2022.html</guid><pubDate>Sat, 01 Jan 2022 12:07:48 +0000</pubDate></item><item><title>关于</title><link>https://xBitBetter.github.io/about.html</link><description>`Gmeek-html&lt;iframe frameborder='no' border='0' marginwidth='0' marginheight='0' width=298 height=52 src='//music.163.com/outchain/player?type=0&amp;id=14065145156&amp;auto=0&amp;height=32'&gt;&lt;/iframe&gt;`
+- 开发安装MySQL8版本，但是直接使用安装包安装，无法设置安装路径，mysql会直接安装到系统盘。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/MySQL8-lv-se-ban-an-zhuang-jian-ming-jiao-cheng.html</guid><pubDate>Fri, 06 Jun 2025 08:45:20 +0000</pubDate></item><item><title>WeeklyReport2025</title><link>https://xBitBetter.github.io/post/WeeklyReport2025.html</link><description>&gt; English, code, write, speech, read，这个时代复利最高的五件事。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/WeeklyReport2025.html</guid><pubDate>Wed, 01 Jan 2025 11:50:50 +0000</pubDate></item><item><title>WeeklyReport2024</title><link>https://xBitBetter.github.io/post/WeeklyReport2024.html</link><description>&gt; English, code, write, speech, read，这个时代复利最高的五件事。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/WeeklyReport2024.html</guid><pubDate>Mon, 01 Jan 2024 14:15:12 +0000</pubDate></item><item><title>WeeklyReport2023</title><link>https://xBitBetter.github.io/post/WeeklyReport2023.html</link><description>&gt; English, code, write, speech, read，这个时代复利最高的五件事。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/WeeklyReport2023.html</guid><pubDate>Sun, 01 Jan 2023 13:10:20 +0000</pubDate></item><item><title>WeeklyReport2022</title><link>https://xBitBetter.github.io/post/WeeklyReport2022.html</link><description>&gt; 人生不是一种享乐，而是一桩十分沉重的工作。</description><guid isPermaLink="true">https://xBitBetter.github.io/post/WeeklyReport2022.html</guid><pubDate>Sat, 01 Jan 2022 12:07:48 +0000</pubDate></item><item><title>关于</title><link>https://xBitBetter.github.io/about.html</link><description>`Gmeek-html&lt;iframe frameborder='no' border='0' marginwidth='0' marginheight='0' width=298 height=52 src='//music.163.com/outchain/player?type=0&amp;id=14065145156&amp;auto=0&amp;height=32'&gt;&lt;/iframe&gt;`
 
 
 👋 Hi，我叫 xBitBetter🤣，是一名后端工程师 👨🏻‍💻（.NET ☕️）
