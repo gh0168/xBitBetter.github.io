@@ -1,1 +1,1 @@
-`Gmeek-html<iframe src="https://zlib.by/" style="font-size: 14px;"  frameborder="0"></iframe>`
+`Gmeek-html<iframe src="https://zh.niulangshan.ru/" style="font-size: 14px;"  frameborder="0"></iframe>`
